@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    background-color: deepskyblue;
+    width: 50%;
+    margin: 7px auto;
+}
+
+img {
+    width: 200px;
+    box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
+    background-size: cover;
+    padding: 1em;
+    text-align: center;
+   background-color: cadetblue;
+}
+
+body {
+    background-color: rgb(246, 246, 246);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(https://fontenaylecomte-saintetrinite.fr/wp-content/uploads/2018/08/fond-page-web-oeillets.jpg);
+}
+
+h3 {
+    text-align: center;
+    font-style: oblique;
+    color: rgb(71, 70, 70);
+    background-color: cadetblue;
+    color: aliceblue;
+    width: 9%;
+}
+
+h4{
+    text-align: left;
+}
+
